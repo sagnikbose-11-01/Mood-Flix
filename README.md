@@ -3,9 +3,9 @@
 
 **MoodFlix** is a sleek, modern Movie App that brings entertainment to your fingertips! Built using **React.js**, powered by **Appwrite** for backend services, styled beautifully with **TailwindCSS**, and integrated with the **TMDB API**, this app allows users to:
 
-- Browse movies by categories
-- Search for their favorite titles
-- Explore trending content based on personal browsing patterns
+- Easily search for specific movies using a search function.
+- Explore a wide range of movies available on the platform.
+- Displays trending movies based on a dynamic algorithm.
 
 ## 🚀 Features
 
@@ -17,15 +17,24 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-| Frontend      | Backend     | Styling      | API      |
-|---------------|-------------|--------------|----------|
-| React.js      | Appwrite    | TailwindCSS  | TMDB API |
+
+<h3 align="left">🧰 Tech Stack:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React JS"/>
+  <img src="https://img.shields.io/badge/Appwrite-FF3366?style=for-the-badge&logo=appwrite&logoColor=ffffff" alt="Appwrite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"/>
+</p>
+
 
 ---
 
+## 🔗 Live Demo
 
+🌐 Check it out here: [Live Demo](https://mood-flix-one.vercel.app/)
+
+---
 
 ## 📦 Installation
 
@@ -33,7 +42,7 @@
    ```bash
    git clone https://github.com/your-username/moodflix.git
    cd moodflix
-````
+   ````
 
 2. **Install dependencies**
 
@@ -73,12 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
 
-* [TMDB](https://www.themoviedb.org/) for their open movie API
-* [Appwrite](https://appwrite.io/) for the easy-to-use backend
-* [TailwindCSS](https://tailwindcss.com/) for utility-first styling
-
-```
 
 
